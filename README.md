@@ -48,7 +48,7 @@ The insights were translated into a clean, interactive Power BI dashboard for vi
 - Slicers for filtering by year or KPI
 
 ### 📷 Dashboard Preview:
-(Dashboard Preview HUL.png)
+![Dashboard Preview](./Dashboard%20Preview%20HUL.png)
 
 ---
 
