@@ -8,7 +8,7 @@
 
 ## 📌 Project Objective
 
-To analyze and visualize the **financial performance of Hindustan Unilever Ltd. (HUL)** over a 6-year period (FY20–FY25). The project was executed in two parts:  
+To analyze and visualize the **financial performance of Hindustan Unilever Ltd. (HUL)** from (FY20–FY25). The project was executed in two parts:  
 - **Excel-based financial modeling** for in-depth metric calculation and trend identification  
 - **Power BI dashboard** for creating interactive, stakeholder-ready visual insights
 
@@ -40,12 +40,10 @@ In Excel, I focused on extracting actionable insights from raw financial data.
 The insights were translated into a clean, interactive Power BI dashboard for visual storytelling.
 
 ### 📊 Dashboard Components:
-- Line & Column Charts: Revenue, EBITDA, Net Income
+- Line & Column Charts: Revenue, EBITDA, Net Income, Equity
 - KPI Cards: ROE (%), EBITDA Margin, Revenue CAGR
 - Working Capital & Operating Cash Flow trends
-- Ratio visuals: Current Ratio, Debt-to-Equity
-- Conditional formatting for YoY % changes
-- Slicers for filtering by year or KPI
+- Slicers for filtering by year
 
 ---
 
@@ -54,11 +52,8 @@ The insights were translated into a clean, interactive Power BI dashboard for vi
 | Skill | Description |
 |-------|-------------|
 | 📈 Excel Analysis | Trend calculations, ratio analysis, margin breakdown |
-| 📊 Power BI | Dynamic visuals, KPI tracking, clean UI/UX |
+| 📊 Power BI | Dynamic visuals, KPI tracking, DAX |
 | 📌 Business Insights | Interpreted data to evaluate financial health & growth potential |
 | 💡 Data Storytelling | Connected raw data with real-world decisions |
 
----
-
-## 📁 Repository Structure
 
