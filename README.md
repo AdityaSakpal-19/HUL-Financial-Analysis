@@ -1,72 +1,70 @@
-📊 *HUL Financial Analysis (FY20–FY25)*
-🔗 Project Type: *Financial Analysis*| *Excel Modeling* | *Power BI Dashboard*
-🧠 Domain: *Business Analytics* | *Financial Analytics* | *FMCG Sector*
-📁 Tools Used: Microsoft Excel, Power BI, DAX, Data Visualization, Ratio Analysis
-📌 Project Objective
-To analyze and visualize the financial performance of Hindustan Unilever Ltd. (HUL) over a 6-year period (FY20–FY25) using both Excel and Power BI. The goal was to understand trends in revenue, profitability, liquidity, and capital efficiency, and to build an interactive dashboard for presenting insights to stakeholders.
+# 📊 HUL Financial Analysis (FY20–FY25)
 
-🟦 Part 1: Excel-Based Financial Analysis
-This section involved collecting and analyzing historical financial data in Excel.
+### 🚀 Project Type: Financial Analysis | Excel Modeling | Power BI Dashboard  
+### 🧠 Domain: Business Analytics | Financial Analytics | FMCG Sector  
+### 💼 Tools Used: Microsoft Excel, Power BI, DAX, Data Visualization
 
-✅ Metrics Analyzed:
-Revenue, EBITDA, Net Income
+---
 
-EBITDA Margin & Net Profit Margin
+## 📌 Project Objective
 
-YoY Growth % and CAGR
+To analyze and visualize the **financial performance of Hindustan Unilever Ltd. (HUL)** over a 6-year period (FY20–FY25). The project was executed in two parts:  
+- **Excel-based financial modeling** for in-depth metric calculation and trend identification  
+- **Power BI dashboard** for creating interactive, stakeholder-ready visual insights
 
-Working Capital
+---
 
-Operating Cash Flow
+## 🟦 Excel-Based Financial Analysis
 
-Return on Equity (ROE)
+In Excel, I focused on extracting actionable insights from raw financial data.
 
-Liquidity Ratios (Current Ratio)
+### ✅ Metrics Analyzed:
+- Revenue, EBITDA, Net Income
+- YoY Growth %, CAGR (5-year)
+- EBITDA Margin & Net Profit Margin
+- Operating Cash Flow & Working Capital
+- ROE (%), Debt-to-Equity, Current Ratio
 
-Solvency Ratios (Debt-to-Equity)
+### 📈 Key Findings:
+- **Revenue CAGR**: 8.14%, **Net Income CAGR**: 7.9%
+- Stable **EBITDA Margin** (~25%) and **Net Income Margin** (~16.5%)
+- **ROE improved** to 21.47% in FY25
+- **Working Capital peaked** in FY24 but declined in FY25
+- **Current Ratio** remained above 1.3, showing strong liquidity
+- **Debt-to-Equity** stayed low (<0.65), indicating a conservative capital structure
 
-📈 Key Insights:
-Revenue CAGR of 8.14%, showing steady top-line growth.
+---
 
-EBITDA and Net Income also grew at ~7.8–7.9% CAGR, with margins remaining stable (~25% EBITDA margin and ~16.5% net margin).
+## 🟩 Power BI Dashboard
 
-ROE improved from 16.76% in FY21 to 21.47% in FY25, showing increased efficiency in generating shareholder returns.
+The insights were translated into a clean, interactive Power BI dashboard for visual storytelling.
 
-Working Capital peaked in FY24 but declined in FY25, suggesting a potential strain in liquidity management.
+### 📊 Dashboard Components:
+- Line & Column Charts: Revenue, EBITDA, Net Income
+- KPI Cards: ROE (%), EBITDA Margin, Revenue CAGR
+- Working Capital & Operating Cash Flow trends
+- Ratio visuals: Current Ratio, Debt-to-Equity
+- Conditional formatting for YoY % changes
+- Slicers for filtering by year or KPI
 
-The Current Ratio stayed above 1.3, reflecting a safe short-term liquidity position.
+### 📷 Dashboard Preview:
 
-Debt-to-Equity ratio stayed low (<0.65 post-FY21), indicating a conservative capital structure and low financial risk.
+![HUL Financial Dashboard](./HUL_Dashboard_Screenshot.png)
 
-🧠 Interpretation:
-This structured tabular analysis helped me understand not just the growth of HUL over time, but also how its operational efficiency and capital structure evolved. The company displayed strong financial health, but signs of slower growth and a drop in working capital in FY25 signal areas to watch.
+> 🔎 Note: All values are in ₹ Crores
 
-🟩 Part 2: Power BI Dashboard
-The Excel insights were translated into a clean, interactive dashboard in Power BI.
+---
 
-📊 Dashboard Components:
-Revenue, EBITDA, Net Income trends (column and line charts)
+## 🎯 Final Takeaways
 
-EBITDA Margin & Net Profit Margin (line charts)
+| Skill | Description |
+|-------|-------------|
+| 📈 Excel Analysis | Trend calculations, ratio analysis, margin breakdown |
+| 📊 Power BI | Dynamic visuals, KPI tracking, clean UI/UX |
+| 📌 Business Insights | Interpreted data to evaluate financial health & growth potential |
+| 💡 Data Storytelling | Connected raw data with real-world decisions |
 
-ROE (%) – visualized using a gauge chart for FY25
+---
 
-Working Capital and Operating Cash Flow trends
+## 📁 Repository Structure
 
-Current Assets vs Liabilities (stacked column chart)
-
-Equity Growth
-
-YoY Growth % with conditional formatting
-
-KPI Cards for key metrics and CAGR summaries
-
-🧠 Interpretation:
-The Power BI dashboard allows users to interact with the data and drill down into the financial story quickly. Stakeholders can track how profit margins held steady even as growth slowed, or how the company’s low leverage (Debt-to-Equity) was maintained over time. Conditional formatting helps spot declining or improving KPIs at a glance.
-
-🎯 Final Takeaways
-📌 Excel was ideal for calculating, organizing, and interpreting financial statements and ratios.
-
-📌 Power BI brought the story to life through interactive, executive-ready visuals.
-
-📌 The combined approach offers both depth and accessibility — turning financial numbers into actionable business insights.
