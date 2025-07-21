@@ -48,10 +48,7 @@ The insights were translated into a clean, interactive Power BI dashboard for vi
 - Slicers for filtering by year or KPI
 
 ### 📷 Dashboard Preview:
-
-![HUL Financial Dashboard](./HUL_Dashboard_Screenshot.png)
-
-> 🔎 Note: All values are in ₹ Crores
+(Dashboard Preview HUL.png)
 
 ---
 
