@@ -47,9 +47,6 @@ The insights were translated into a clean, interactive Power BI dashboard for vi
 - Conditional formatting for YoY % changes
 - Slicers for filtering by year or KPI
 
-### 📷 Dashboard Preview:
-![Dashboard Preview](./Dashboard%20Preview%20HUL.png)
-
 ---
 
 ## 🎯 Final Takeaways
